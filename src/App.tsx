@@ -37,11 +37,11 @@ function App() {
                 </a>
               </div>
             </div>
-            <div className="flex-1">
+             <div className="flex-1">
               <img 
-                src="https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
-                alt="Data Science Illustration" 
-                className="rounded-lg shadow-2xl"
+                src="/img.png"
+                alt="Abdourahmane Timera - Data Science Student"
+                className="w-80 h-96 object-cover rounded-2xl shadow-2xl mx-auto "
               />
             </div>
           </div>
